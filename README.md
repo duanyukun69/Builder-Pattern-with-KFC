@@ -1,6 +1,8 @@
 # Builder-Pattern-with-KFC
 An object creation software design pattern.
 
+第一次《设计模式与系统架构》作业
+
 一、模式定义
 
 建造者模式将一个复杂对象的构建与表示分离，使得同样的构建过程可以创建不同的表示。
